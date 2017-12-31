@@ -2,7 +2,7 @@
 #opencv_color_detect.py
 import cv2
 import numpy as np
-
+# setting five colours for bluring
 BLUR=(5,5)
 threshold=0
 #Set the BGR color thresholds
